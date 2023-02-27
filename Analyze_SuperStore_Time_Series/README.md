@@ -14,7 +14,7 @@ MySQLのデータ分析プロジェクト。スーパーストアの時系列デ
 [Kaggleの【SuperStore Time Series】データセット](https://www.kaggle.com/datasets/blurredmachine/superstore-time-series-dataset)
 
 
-<img src="">
+<img src="https://raw.githubusercontent.com/takanaoikeda/SQL-Portfolio-Projects/main/Analyze_SuperStore_Time_Series/SuperStore_ER.png">
 <br>
 
 ER図は[MySQL Workbench](https://www.mysql.com/jp/products/workbench/)で作成。

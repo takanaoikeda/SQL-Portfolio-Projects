@@ -14,7 +14,7 @@ MySQLのデータ分析プロジェクト。Chinook Music Storeがビジネス�
 [chinook-database](https://github.com/lerocha/chinook-database)
 
 
-<img src="">
+<img src="https://github.com/takanaoikeda/SQL-Portfolio-Projects/blob/main/Analyze_Music_Store_Data/Chinook_ER.png?raw=true">
 <br>
 
 ER図は[MySQL Workbench](https://www.mysql.com/jp/products/workbench/)で作成。

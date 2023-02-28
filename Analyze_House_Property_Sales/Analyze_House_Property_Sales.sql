@@ -35,7 +35,6 @@ JOIN tbl_top_avgprice_postcode AS ap ON rs.postcode = ap.postcode
 GROUP BY rs.postcode
 
 /* 質問4: 最も販売数が少ないのはどの年ですか?*/
-・最も販売数が少ないのはどの年ですか?
 
 SELECT 
 	to_char(datesold,'YYYY') AS datesold_year,
